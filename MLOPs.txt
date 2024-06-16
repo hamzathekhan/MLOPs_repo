@@ -1,0 +1,14 @@
+MLOPS stands for Machine Learning Operations. MLOPs is a set of practices which is used to
+deploy ML models and maintain its reliablity and efficiency.
+
+Q. ML in Production : How its look like?
+    Loops in Production Environment
+
+    Step 1 : Data Collection
+    Step 2 : Training the Model
+    Step 3 : Deployment of the Model
+
+
+Q. What is Pipeline?
+A. Pipeline means step by step perform a task in MLOPs.
+
